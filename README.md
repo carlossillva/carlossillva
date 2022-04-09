@@ -7,7 +7,6 @@
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Carlos-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/avatars/615694458662682634/9f3be88759d55fe0cfd42b04d0b363b0.webp?size=80">
 </div>
   
   ##
