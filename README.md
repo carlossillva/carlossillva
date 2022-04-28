@@ -1,4 +1,4 @@
-![radicaled](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fmatue-maquina-do-tempo-gif-19382540&psig=AOvVaw1RkYXQzN5Cvk6qAwz7oqLN&ust=1651192172274000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjFiqvAtfcCFQAAAAAdAAAAABAD)
+![radicaled](https://c.tenor.com/g1-M1c0xX7wAAAAd/matue-maquina-do-tempo.gif)
 
 ## Olá, eu sou o Carlos Silva 🐱‍💻!
 <div align="center">
