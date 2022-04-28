@@ -1,7 +1,4 @@
-
-<div>
-<img src="https://c.tenor.com/g1-M1c0xX7wAAAAd/matue-maquina-do-tempo.gif"/>
-</div>
+![matue-maquina-do-tempo](https://github.com/carlossillva/carlossillva/blob/main/matue-maquina-do-tempo.gif)
 ## Olá, eu sou o Carlos Silva 🐱‍💻!
 <div align="center">
   <a href="https://github.com/carlossillva">
