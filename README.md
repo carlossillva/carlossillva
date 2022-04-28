@@ -1,5 +1,7 @@
-![radicaled](https://c.tenor.com/g1-M1c0xX7wAAAAd/matue-maquina-do-tempo.gif)
 
+<div>
+<img src="https://c.tenor.com/g1-M1c0xX7wAAAAd/matue-maquina-do-tempo.gif"/>
+</div>
 ## Olá, eu sou o Carlos Silva 🐱‍💻!
 <div align="center">
   <a href="https://github.com/carlossillva">
